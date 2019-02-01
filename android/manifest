@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 4
+architectures: arm64-v8a armeabi-v7a x86
+description: titanium-jailbreak
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2019 by Your Company
+
+# these should not be edited
+name: titanium-jailbreak
+moduleid: be.aca.mobile.jailbreak
+guid: 70aca368-1ffc-4e82-b319-1fbac6a0312b
+platform: android
+minsdk: 7.0.0.GA
