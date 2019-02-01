@@ -1,4 +1,4 @@
-# ti-jailbreak Module
+# Ti-jailbreak Module
 
 ## Description
 
@@ -9,15 +9,15 @@ This module uses [DTTJailbreakDetection](https://github.com/thii/DTTJailbreakDet
 ## Usage
 
 To access this module from JavaScript, you would do the following:
-
+```
 var TiJailbreak = require('be.aca.mobile.jailbreak');
 
 if (TiJailbreak.isJailbroken()) {
-...
+   ...
 } else {
-...
+   ...
 }
-
+```
 ## Author
 
 This module has been made by the ACA Mobile team, part of [ACA IT-Solutions](https://www.aca-it.be). 
